@@ -1,0 +1,54 @@
+[
+  {
+    "_id": { "$oid": "60f8a8e4b3f3f3c8cdbc1a67" },
+    "user_id": 1,
+    "name": "Ulaş Günhan",
+    "email": "ulas@blutv.com",
+    "subscription_type": "Premium",
+    "watch_history": [
+      { "show_name": "Prens", "episode": 3, "season": 1 },
+      { "show_name": "Gibi", "episode": 5, "season": 2 }
+    ],
+    "favorite_genres": ["Komedi", "Drama"],
+    "watch_time": 1200
+  },
+  {
+    "_id": { "$oid": "60f8a8e4b3f3f3c8cdbc1a68" },
+    "user_id": 2,
+    "name": "Berkay Nalbant",
+    "email": "berkay@blutv.com",
+    "subscription_type": "Basic",
+    "watch_history": [
+      { "show_name": "Ayak İşleri", "episode": 8, "season": 1 },
+      { "show_name": "Behzat Ç.", "episode": 4, "season": 3 }
+    ],
+    "favorite_genres": ["Aksiyon", "Macera"],
+    "watch_time": 700
+  },
+  {
+    "_id": { "$oid": "60f8a8e4b3f3f3c8cdbc1a69" },
+    "user_id": 3,
+    "name": "Vasfi Doğan",
+    "email": "vasfi@blutv.com",
+    "subscription_type": "Standard",
+    "watch_history": [
+      { "show_name": "Bartu Ben", "episode": 2, "season": 1 },
+      { "show_name": "Gibi", "episode": 1, "season": 3 }
+    ],
+    "favorite_genres": ["Komedi", "Bilim Kurgu"],
+    "watch_time": 600
+  },
+  {
+    "_id": { "$oid": "60f8a8e4b3f3f3c8cdbc1a70" },
+    "user_id": 4,
+    "name": "Ayşe Güneş",
+    "email": "ayse@blutv.com",
+    "subscription_type": "Premium",
+    "watch_history": [
+      { "show_name": "Prens", "episode": 6, "season": 1 },
+      { "show_name": "Behzat Ç.", "episode": 2, "season": 2 }
+    ],
+    "favorite_genres": ["Drama", "Suç"],
+    "watch_time": 1500
+  }
+]
